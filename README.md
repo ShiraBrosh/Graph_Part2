@@ -2,12 +2,6 @@
 
 This project implements a `Graph` class for representing and manipulating graphs using an adjacency matrix. The class supports various arithmetic operations, comparison operators, increment/decrement operators, and scalar multiplication on graphs.
 
-## Files
-
-1. `Graph.hpp`: Header file containing the declaration of the `Graph` class.
-2. `Graph.cpp`: Implementation file for the `Graph` class.
-3. `test.cpp`: Test file containing unit tests for the `Graph` class.
-
 ## Graph Class
 
 The `Graph` class provides the following functionality:
@@ -54,8 +48,3 @@ The `Graph` class provides the following functionality:
 
 To use the `Graph` class, include the `Graph.hpp` header file in your project. You can create, manipulate, and perform operations on graphs using the provided member functions and overloaded operators.
 
-## Contributors
-
-- [Your Name] - [Your Student ID] - [Your Email]
-
-Please note that the actual implementation details of the `Graph` class and the test cases are not included in this README file. You should refer to the respective source files (`Graph.cpp` and `test.cpp`) for the complete implementation.
